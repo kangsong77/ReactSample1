@@ -16,7 +16,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          ㄹㅣ액트 안녕~
+          ㄹㅣ액트 잘가~
         </a>
       </header>
     </div>
